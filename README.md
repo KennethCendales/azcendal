@@ -4,6 +4,8 @@
 de ropa deportiva. Este repositorio contiene únicamente la pestaña
 de **inicio (home)**, maquetada en HTML5 y CSS puro.
 
+![Vista previa de la página de inicio de Azcendal](assets/preview.png)
+
 ## Vista previa
 
 La página muestra:
