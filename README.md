@@ -1,7 +1,10 @@
 # Azcendal — Tienda de ropa deportiva
 
 **Versión de prueba** de la página de inicio de Azcendal, marca colombiana de indumentaria de performance urbano. Este repositorio contiene únicamente la pestaña de **inicio (home)**, maquetada en HTML5 y CSS puro.
-<img width="1902" height="908" alt="preview1" src="https://github.com/user-attachments/assets/bf1defe0-9505-4372-a1f6-c8a243883a75" />
+
+<img width="1902" height="908" alt="preview1" src="https://github.com/user-attachments/assets/bf1defe0-9505-4372-a1f6-c8a243883a75" /> 
+<img width="1903" height="910" alt="preview2" src="https://github.com/user-attachments/assets/86520452-091a-4420-8e85-9e12276f827e" />
+
 
 ## Vista previa
 
